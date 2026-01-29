@@ -4,7 +4,7 @@ export default function Home() {
   return (
     
       
-<div className=" flex flex-col justify-center items-center bg-blue-500 w-full h-full">
+<div className=" flex flex-col justify-center items-center bg-red-500 w-full h-full">
 
       <div className="text-yellow-400  bg-blue-500 rounded-2xl border-2 border-white mt-20 text-center w-100 h-15">
       <h1 className="font-bold  text-lg   ">São thome das letras</h1>
